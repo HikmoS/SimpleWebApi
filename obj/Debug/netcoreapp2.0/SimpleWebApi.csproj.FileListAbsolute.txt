@@ -1,0 +1,11 @@
+C:\Users\Hikmet\Desktop\SimpleWebApi\bin\Debug\netcoreapp2.0\SimpleWebApi.deps.json
+C:\Users\Hikmet\Desktop\SimpleWebApi\bin\Debug\netcoreapp2.0\SimpleWebApi.runtimeconfig.json
+C:\Users\Hikmet\Desktop\SimpleWebApi\bin\Debug\netcoreapp2.0\SimpleWebApi.runtimeconfig.dev.json
+C:\Users\Hikmet\Desktop\SimpleWebApi\bin\Debug\netcoreapp2.0\SimpleWebApi.dll
+C:\Users\Hikmet\Desktop\SimpleWebApi\bin\Debug\netcoreapp2.0\SimpleWebApi.pdb
+C:\Users\Hikmet\Desktop\SimpleWebApi\obj\Debug\netcoreapp2.0\SimpleWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Hikmet\Desktop\SimpleWebApi\obj\Debug\netcoreapp2.0\SimpleWebApi.AssemblyInfoInputs.cache
+C:\Users\Hikmet\Desktop\SimpleWebApi\obj\Debug\netcoreapp2.0\SimpleWebApi.AssemblyInfo.cs
+C:\Users\Hikmet\Desktop\SimpleWebApi\obj\Debug\netcoreapp2.0\SimpleWebApi.dll
+C:\Users\Hikmet\Desktop\SimpleWebApi\obj\Debug\netcoreapp2.0\SimpleWebApi.pdb
+C:\Users\Hikmet\Desktop\SimpleWebApi\obj\Debug\netcoreapp2.0\SimpleWebApi.csprojAssemblyReference.cache
